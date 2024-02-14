@@ -1,3 +1,6 @@
+#Trabalho de implementação do algoritmo de Dijkstra
+#ALuna: Maria Thalia Araujo Souza
+
 #Imagine que uma familia está de férias com um super carro alugado e eles tem um mapa com várias cidades interligadas por estradas,
 #onde cada estrada tem um comprimento associado. Eles querem economizar tempo e visitar o maior número de cidades possível,
 #então o objetivo é encontrar o caminho mais curto entre duas cidades quaisquer.
